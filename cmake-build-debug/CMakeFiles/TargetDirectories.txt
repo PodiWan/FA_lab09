@@ -1,0 +1,3 @@
+D:/Informatica/C++/FA/PodinaT_lab09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Informatica/C++/FA/PodinaT_lab09/cmake-build-debug/CMakeFiles/PodinaT_lab09.dir
+D:/Informatica/C++/FA/PodinaT_lab09/cmake-build-debug/CMakeFiles/edit_cache.dir
